@@ -12,8 +12,8 @@ class CreditsScreen extends StatelessWidget {
         child: Column(
           children: [
             Text('Our Team'),
-            Text('Ziyad Mansy'),
-            Text('Aya Abd El-Aziz'),
+            Text('Ankeet Jena'),
+            Text('Ruchika Ruhela'),
           ],
         ),
       ),
